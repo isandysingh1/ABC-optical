@@ -29,6 +29,3 @@ This project is a static website for ABC Optical, a Brisbane-based company speci
 - Add JavaScript for form validation.
 - Implement a backend to handle form submissions.
 - Enhance the design with more animations and interactive elements.
-
-## License
-This project is licensed under the MIT License.
